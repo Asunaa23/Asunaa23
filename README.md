@@ -1,4 +1,4 @@
-# Hi, I'm Asunaa 👋
+# Hi, I'm Asuna 👋
 
 🎓 Networks & Telecommunications student  
 🔐 Specializing in Cybersecurity  
