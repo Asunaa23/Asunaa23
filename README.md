@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asunaa23&show_icons=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asunaa23&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asunaa23&layout=compact&hide_border=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asunaa23&layout=compact&theme=github_dark)
 
