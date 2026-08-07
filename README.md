@@ -1,11 +1,11 @@
 # Hi, I'm Asuna 👋
 <p align="left">
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Website-Coming%20Soon-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
