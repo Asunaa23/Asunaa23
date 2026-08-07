@@ -1,6 +1,5 @@
 # Hi, I'm Asuna 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 🎓 Networks & Telecommunications student  
