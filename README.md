@@ -4,7 +4,7 @@
 🔐 Specializing in Cybersecurity  
 ☁️ Interested in Cloud Infrastructure, Networking & Cloud Architecture
 
-## 🚀 Currently learning
+## 🌱 Currently learning
 
 - ☁️ AWS & Cloud Infrastructure
 - 🌐 Networking & Network Architecture
